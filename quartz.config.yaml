@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: marsell.github.io
+  baseUrl: cwaidner64.github.io/marsell
   ignorePatterns:
     - private
     - templates
