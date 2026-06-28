@@ -7,6 +7,7 @@ published: 2026-07-01
 
 So you want to be an entrepenuer?
 
+![Startup journey](./assets/leonardo-dicaprio-money.gif)
 About 80% of all startups fail over a 20 year period, with the highest failure rates in the first few years. About 10% of founders in their first year will fail, 20% second year, 35% in the third, and so on.
 
 link: https://www.bls.gov/bdm/entrepreneurship/bdm_chart3.htm
